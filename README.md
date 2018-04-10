@@ -1,2 +1,3 @@
-# urlshortener
-URL Shortener written in Go.  Built from Gophercises Exercise 2
+# URL Shortener
+
+### URL Shortener written in Go.  Built from Gophercises Exercise 2
